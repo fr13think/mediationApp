@@ -1,4 +1,3 @@
-```markdown
 # MeditationApp User Stories
 
 ## User Story 1: User Registration
@@ -138,5 +137,3 @@ As a **user**, I want to **use the app in dark mode** so that **I can reduce eye
 
 ### Story Points:
 **2**
-```
-
